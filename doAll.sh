@@ -4,8 +4,7 @@ echo "installo gedit"
 #sudo apt-get install apache2 -y
 #sudo apt-get install php5 -y
 sudo apt-get install mysql-client -y
-export DEBIAN_FRONTEND=noninteractive
-sudo apt-get install mysql-server -y 
+sudo DEBIAN_FRONTEND=noninteractive apt-get install mysql-server -y 
 mysqladmin -u root password leonardo
 
 cd
