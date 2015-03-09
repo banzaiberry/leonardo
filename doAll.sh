@@ -8,7 +8,6 @@ export DEBIAN_FRONTEND=noninteractive
 sudo apt-get install mysql-server -y 
 mysqladmin -u root password leonardo
 
-
 cd
 git clone https://github.com/banzaiberry/leonardo.git leonardo
 mysql -u root -pleonardo -e "create database leonardo;";
