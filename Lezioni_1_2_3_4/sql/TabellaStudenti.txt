@@ -1,0 +1,301 @@
+NULL	Marco	Agostini	M	marco.agostini@libero.it	1999-06-29	10	10	6	9	10	8	9	10	promosso
+NULL	Anna	Aletti	F	anna.aletti@gmail.com	1999-07-15	8	10	8	7	9	10	8	7	promosso
+NULL	Luca	Altomare	M	luca.altomare@gmail.com	2000-12-12	8	10	9	8	10	6	9	10	promosso
+NULL	Rosa	Amastasia	F	rosa.amastasia@virgilio.it	1998-08-14	3	7	5	3	4	6	4	7	non ammesso
+NULL	Giancarlo	Amatori	M	giancarlo.amatori@virgilio.it	1999-07-30	3	8	7	9	5	5	3	8	promosso
+NULL	Antonia	Amoruso	F	antonia.amoruso@gmail.com	1998-02-25	6	7	10	4	6	5	4	4	promosso
+NULL	Pierpaolo	Angeletti	M	pierpaolo.angeletti@libero.it	2000-10-02	6	10	8	3	5	10	4	5	promosso
+NULL	Davide	Angelini	M	davide.angelini@libero.it	2000-12-27	8	7	8	7	9	10	9	8	promosso
+NULL	Silvia	Antonioli	F	silvia.antonioli@virgilio.it	1998-04-18	7	7	10	8	7	8	10	8	promosso
+NULL	Gaspare	Antonuccio	M	gaspare.antonuccio@gmail.com	2000-02-06	10	8	3	3	9	6	6	10	promosso
+NULL	Alessandro	Appiani	M	alessandro.appiani@libero.it	1998-08-14	6	7	6	10	10	10	6	9	promosso
+NULL	Luigi	Aprile	M	luigi.aprile@virgilio.it	2000-12-04	8	8	6	8	10	9	10	9	promosso
+NULL	Luca	Arioli	M	luca.arioli@libero.it	1998-10-25	10	10	6	9	7	10	6	10	promosso
+NULL	Andrea	Arnesano	M	andrea.arnesano@gmail.com	2000-04-12	6	4	3	7	6	5	10	6	promosso
+NULL	Antonio	Arvizzigno	M	antonio.arvizzigno@gmail.com	1998-04-29	9	7	9	8	8	10	10	9	promosso
+NULL	Fabio	Arzeni	M	fabio.arzeni@gmail.com	1999-07-30	8	6	8	10	4	9	9	5	promosso
+NULL	Daniele	Attruia	M	daniele.attruia@gmail.com	2000-12-04	7	10	7	8	7	6	8	7	promosso
+NULL	Giorgio	Averono	M	giorgio.averono@virgilio.it	1999-04-10	4	9	6	8	8	10	10	6	promosso
+NULL	Francesco	Bagini	M	francesco.bagini@gmail.com	1998-04-28	6	8	6	7	10	9	6	7	promosso
+NULL	Giuseppe	Bagnato	M	giuseppe.bagnato@gmail.com	2000-11-20	4	7	4	4	7	6	4	4	non ammesso
+NULL	Andrea	Baietti	M	andrea.baietti@gmail.com	1999-01-03	7	8	8	6	9	7	9	9	promosso
+NULL	Matteo	Balducelli	M	matteo.balducelli@virgilio.it	1999-06-22	9	10	9	6	6	7	10	9	promosso
+NULL	Carlo alberto	Balzi	M	carlo alberto.balzi@gmail.com	1999-06-08	9	8	6	10	8	8	6	8	promosso
+NULL	Luca	Barbarossa	M	luca.barbarossa@libero.it	1998-03-23	10	7	9	8	9	9	8	6	promosso
+NULL	Douglas	Barillaro	M	douglas.barillaro@virgilio.it	1999-08-03	9	8	6	10	10	9	6	7	promosso
+NULL	Francesca	Barone	F	francesca.barone@virgilio.it	2000-02-06	6	8	7	9	8	7	10	8	promosso
+NULL	Laura	Basta	F	laura.basta@gmail.com	1998-09-16	6	10	10	10	9	6	8	9	promosso
+NULL	Michele	Beatrice	M	michele.beatrice@libero.it	1998-05-25	10	10	8	9	6	7	9	6	promosso
+NULL	Marco	Belbusti	M	marco.belbusti@gmail.com	1998-02-09	5	7	7	6	4	8	6	4	promosso
+NULL	Claudio	Bellomo	M	claudio.bellomo@libero.it	1998-06-23	10	6	9	7	6	9	8	8	promosso
+NULL	Giacomo	Blasco	M	giacomo.blasco@gmail.com	1998-02-21	10	10	7	8	6	9	9	7	promosso
+NULL	Antonio	Blasi	M	antonio.blasi@virgilio.it	1998-03-19	9	9	6	5	5	3	8	9	promosso
+NULL	Antonio	Boccamazzo	M	antonio.boccamazzo@gmail.com	2000-06-14	10	7	9	10	8	8	7	10	promosso
+NULL	Luca	Boero	M	luca.boero@virgilio.it	1999-08-16	6	7	9	6	7	6	6	9	promosso
+NULL	Leonardo	Bonato	M	leonardo.bonato@virgilio.it	1998-05-05	7	10	6	7	9	6	7	7	promosso
+NULL	Alessandro	Bonetta	M	alessandro.bonetta@libero.it	1999-09-14	6	8	6	4	5	8	5	7	promosso
+NULL	Andrea	Bonfanti	M	andrea.bonfanti@gmail.com	1998-03-03	8	6	10	7	6	8	7	9	promosso
+NULL	Gabriella	Bonito	F	gabriella.bonito@virgilio.it	1999-05-26	9	8	8	6	6	6	5	9	promosso
+NULL	Riccardo	Borsatti	M	riccardo.borsatti@virgilio.it	2000-05-23	6	4	3	4	3	3	4	7	non ammesso
+NULL	Andrea	Braconcini	M	andrea.braconcini@virgilio.it	2000-04-29	9	8	6	9	7	8	10	10	promosso
+NULL	Andrea	Brambilla	M	andrea.brambilla@gmail.com	2000-04-13	7	8	7	9	6	9	6	6	promosso
+NULL	Andrea	Brentegani	M	andrea.brentegani@gmail.com	1999-10-03	4	6	4	4	7	3	3	7	non ammesso
+NULL	Alessio	Brini	M	alessio.brini@libero.it	1999-10-18	10	7	8	8	4	4	5	8	promosso
+NULL	Davide	Bruzzolo	M	davide.bruzzolo@libero.it	2000-05-27	4	10	3	8	7	5	6	3	promosso
+NULL	Damiano	Bulatowich	M	damiano.bulatowich@gmail.com	2000-05-27	10	8	9	7	7	6	9	9	promosso
+NULL	Alfio	Bulla	M	alfio.bulla@libero.it	1999-09-07	7	7	6	10	7	7	6	6	promosso
+NULL	Andrea	Cafaro	M	andrea.cafaro@libero.it	2000-03-29	3	4	5	7	7	4	5	6	non ammesso
+NULL	Veronica	Calamo	F	veronica.calamo@libero.it	2000-08-01	6	3	5	4	9	8	3	10	promosso
+NULL	Mauro	Calanca	M	mauro.calanca@gmail.com	1998-12-11	7	6	9	9	5	3	9	3	promosso
+NULL	Matteo	Calligari	M	matteo.calligari@gmail.com	2000-05-26	9	9	7	6	9	7	9	8	promosso
+NULL	Elisa	Calvo	F	elisa.calvo@libero.it	1998-04-07	9	8	8	7	7	6	10	9	promosso
+NULL	Valentina	Camorani	F	valentina.camorani@libero.it	1999-03-31	5	3	4	6	10	5	8	9	promosso
+NULL	Tommaso	Campiotti	M	tommaso.campiotti@virgilio.it	1998-08-15	6	8	9	9	9	6	7	8	promosso
+NULL	Silvia	Candido	F	silvia.candido@gmail.com	1999-10-23	5	10	9	10	3	5	9	3	promosso
+NULL	Dario	Cangialosi	M	dario.cangialosi@gmail.com	1998-03-31	6	7	6	6	8	9	7	8	promosso
+NULL	Davide	Cantelli	M	davide.cantelli@virgilio.it	1998-03-22	7	6	10	6	10	5	6	4	promosso
+NULL	Francesco	Capaccioli	M	francesco.capaccioli@libero.it	1998-10-08	8	8	7	7	6	6	9	9	promosso
+NULL	Matteo	Cappelli	M	matteo.cappelli@gmail.com	1998-07-28	9	9	7	10	10	6	9	6	promosso
+NULL	Andrea	Carallo	M	andrea.carallo@libero.it	1999-11-08	8	7	10	3	10	6	8	6	promosso
+NULL	Cristian	Caravello	M	cristian.caravello@gmail.com	2000-07-29	9	9	7	10	8	6	3	4	promosso
+NULL	Alessandro	Cardani	M	alessandro.cardani@libero.it	2000-06-26	5	4	5	6	5	6	3	5	non ammesso
+NULL	Vincenzo	Cardito	M	vincenzo.cardito@virgilio.it	1998-06-12	9	9	6	8	9	10	7	8	promosso
+NULL	Katia	Carrozzo	F	katia.carrozzo@gmail.com	1998-05-18	5	5	5	5	4	7	7	4	non ammesso
+NULL	Luigi	Caruso	M	luigi.caruso@libero.it	1998-04-03	8	6	8	10	9	8	9	9	promosso
+NULL	Anna	Casolari	F	anna.casolari@gmail.com	1999-12-10	8	6	7	7	10	9	9	10	promosso
+NULL	Dario	Castelli	M	dario.castelli@libero.it	1999-07-10	9	9	8	7	9	10	9	8	promosso
+NULL	Lorenza	Cavagnini	F	lorenza.cavagnini@libero.it	2000-03-30	6	4	9	3	6	10	4	8	promosso
+NULL	Marco	Cavaliere	M	marco.cavaliere@libero.it	1998-04-15	5	6	6	3	7	5	5	4	non ammesso
+NULL	Silvia	Cazzaro	F	silvia.cazzaro@virgilio.it	1999-09-23	10	10	9	10	6	10	8	8	promosso
+NULL	Marco	Ceccon	M	marco.ceccon@gmail.com	2000-01-21	7	10	10	6	8	6	9	3	promosso
+NULL	Maurizio	Ceri	M	maurizio.ceri@libero.it	1999-03-21	8	7	9	8	9	8	10	10	promosso
+NULL	Marco	Ceriotti	M	marco.ceriotti@libero.it	2000-06-24	5	3	5	10	8	10	8	6	promosso
+NULL	Antonio Francesco	Chetta	M	antonio francesco.chetta@libero.it	1999-06-05	6	10	8	6	8	6	9	7	promosso
+NULL	Martina	Ciavattini	F	martina.ciavattini@virgilio.it	1998-08-15	10	7	6	8	6	8	7	7	promosso
+NULL	Emanuele	Cibelli	M	emanuele.cibelli@libero.it	1998-09-30	3	3	7	5	7	6	7	9	promosso
+NULL	Martino	Cicerani	M	martino.cicerani@virgilio.it	2000-05-05	10	6	10	9	10	9	9	8	promosso
+NULL	Augusto Marcelo	Ciciarelli	M	augusto marcelo.ciciarelli@virgilio.it	1998-09-23	6	9	8	9	8	7	8	9	promosso
+NULL	Mariaroberta	Cioce	F	mariaroberta.cioce@virgilio.it	1998-12-28	3	5	3	5	4	7	7	7	non ammesso
+NULL	Matteo	Colombo	M	matteo.colombo@libero.it	1999-07-21	6	6	9	6	10	7	6	6	promosso
+NULL	Riccardo	Conte	M	riccardo.conte@gmail.com	1999-02-03	10	10	9	6	9	6	9	6	promosso
+NULL	Federico	Conti	M	federico.conti@libero.it	1998-03-17	6	8	9	9	10	7	6	9	promosso
+NULL	Daniele	Conti	M	daniele.conti@gmail.com	1998-03-03	6	8	10	6	9	7	8	7	promosso
+NULL	Mauro	Coppola	M	mauro.coppola@virgilio.it	1999-02-08	9	7	7	4	7	7	4	5	promosso
+NULL	Luca	Corretto	M	luca.corretto@libero.it	1999-10-08	9	6	10	9	7	9	9	8	promosso
+NULL	Antonella	Cosimati	F	antonella.cosimati@gmail.com	1998-04-08	9	10	8	9	9	9	7	6	promosso
+NULL	Francesco	Costa	M	francesco.costa@libero.it	1999-01-26	8	6	8	6	6	6	8	6	promosso
+NULL	Jessica	Cozzo	F	jessica.cozzo@gmail.com	1998-08-16	9	8	10	8	9	6	10	6	promosso
+NULL	Andrea	Crescentini	M	andrea.crescentini@virgilio.it	2000-07-11	3	4	5	7	4	5	3	6	non ammesso
+NULL	Salvatore	Criscione	M	salvatore.criscione@gmail.com	2000-11-24	8	6	6	7	6	6	8	8	promosso
+NULL	Gennaro	Cuomo	M	gennaro.cuomo@libero.it	1998-04-11	8	6	9	7	9	6	8	6	promosso
+NULL	Susanna	De maria	F	susanna.de maria@libero.it	1998-10-30	5	6	7	3	9	5	3	10	promosso
+NULL	Alessio	De matteis	M	alessio.de matteis@gmail.com	1998-12-19	7	8	8	6	10	8	8	8	promosso
+NULL	Alessandro	De paoli	M	alessandro.de paoli@virgilio.it	1999-11-07	9	8	6	9	8	9	10	9	promosso
+NULL	Marco	Deco'	M	marco.deco'@libero.it	1999-07-06	6	7	8	10	9	10	10	7	promosso
+NULL	Daniele	D'Elia	M	daniele.d'elia@gmail.com	2000-08-21	5	7	3	7	5	4	5	7	non ammesso
+NULL	Mattia	Demori	M	mattia.demori@virgilio.it	1998-03-23	7	7	6	6	7	6	9	7	promosso
+NULL	Stefania	Desantis	F	stefania.desantis@libero.it	2000-06-03	7	5	3	7	3	7	5	3	non ammesso
+NULL	Stefano	Di Francesco	M	stefano.di francesco@libero.it	1999-10-16	9	6	9	6	10	8	8	8	promosso
+NULL	Stefano	Di Giacomo	M	stefano.di giacomo@libero.it	1998-07-24	4	4	5	6	4	7	3	7	non ammesso
+NULL	Pasquale	Di Martino	M	pasquale.di martino@virgilio.it	1998-10-06	3	9	3	6	5	10	8	9	promosso
+NULL	Giammarco	Di Santantonio	M	giammarco.di santantonio@virgilio.it	1998-03-01	6	3	4	6	5	4	5	7	non ammesso
+NULL	Valentina	Dinatale	F	valentina.dinatale@libero.it	1998-09-26	3	6	10	3	6	6	8	7	promosso
+NULL	Davide	Donati	M	davide.donati@libero.it	1998-02-03	8	7	6	8	7	10	6	7	promosso
+NULL	Emanuela	D'Angelo	F	emanuela.d'angelo@libero.it	2000-04-23	8	7	7	10	3	7	8	4	promosso
+NULL	Valentino	Esposito	M	valentino.esposito@gmail.com	2000-06-25	6	7	5	3	6	3	5	4	non ammesso
+NULL	Elvira	Facile	F	elvira.facile@libero.it	1999-07-16	6	9	5	7	4	8	4	4	promosso
+NULL	Stefania	Falco	F	stefania.falco@gmail.com	1998-09-19	9	6	6	7	8	8	8	9	promosso
+NULL	Enrico	Falco	M	enrico.falco@virgilio.it	1998-07-02	8	7	7	6	9	8	8	9	promosso
+NULL	Marco	Fantasia	M	marco.fantasia@gmail.com	2000-08-22	10	7	7	6	6	10	9	9	promosso
+NULL	Danilo	Fantasia	M	danilo.fantasia@gmail.com	1998-11-17	8	7	9	3	5	9	9	7	promosso
+NULL	Giulia	Felician	F	giulia.felician@virgilio.it	1998-04-24	8	8	8	6	8	7	6	8	promosso
+NULL	Michele	Ferracin	M	michele.ferracin@gmail.com	2000-07-13	9	6	7	9	10	6	6	6	promosso
+NULL	Robert	Ferraglia	M	robert.ferraglia@virgilio.it	1998-03-28	9	7	9	9	8	10	7	7	promosso
+NULL	Matteo	Ferraresi	M	matteo.ferraresi@virgilio.it	1999-04-21	8	10	7	6	8	7	7	10	promosso
+NULL	Matteo	Filipponi	M	matteo.filipponi@libero.it	1998-01-02	7	6	9	10	10	10	8	6	promosso
+NULL	Annalisa	Finizii	F	annalisa.finizii@virgilio.it	1998-01-11	3	4	7	4	3	4	7	7	non ammesso
+NULL	Davide	Fiorani	M	davide.fiorani@libero.it	2000-01-19	9	6	10	7	8	7	8	10	promosso
+NULL	Salvatore	Forte	M	salvatore.forte@virgilio.it	1998-08-08	6	7	6	10	9	6	10	8	promosso
+NULL	Luisa	Foschetti	F	luisa.foschetti@libero.it	2000-11-15	10	6	9	7	6	6	6	10	promosso
+NULL	Junio	Foschini	M	junio.foschini@libero.it	1998-12-03	7	4	4	8	9	6	9	5	promosso
+NULL	Simone	Franchi	M	simone.franchi@libero.it	1998-09-02	6	9	8	9	5	8	8	9	promosso
+NULL	Marco	Frosali	M	marco.frosali@gmail.com	1999-04-15	8	7	8	10	6	8	8	6	promosso
+NULL	Francesca	Fusar Poli	F	francesca.fusar poli@gmail.com	1998-09-19	8	7	10	10	9	8	7	10	promosso
+NULL	Matteo	Gallus	M	matteo.gallus@libero.it	2000-08-18	6	10	4	6	8	7	7	10	promosso
+NULL	Edmondo	Galluzzo	M	edmondo.galluzzo@gmail.com	1998-01-13	9	7	10	8	6	10	8	8	promosso
+NULL	Angelino	Gambera	M	angelino.gambera@gmail.com	1999-03-28	8	8	7	5	9	8	8	10	promosso
+NULL	Francesco	Garofalo	M	francesco.garofalo@libero.it	2000-03-09	6	7	9	9	9	7	7	7	promosso
+NULL	Laura	Garofolini	F	laura.garofolini@virgilio.it	1999-04-04	4	7	8	7	9	10	5	3	promosso
+NULL	Andrea	Gazzani	M	andrea.gazzani@gmail.com	1999-03-12	9	7	9	9	6	9	6	8	promosso
+NULL	Sabrina	Gerratana	F	sabrina.gerratana@virgilio.it	2000-12-22	9	4	3	3	7	8	6	10	promosso
+NULL	Fabrizio	Ghe'	M	fabrizio.ghe'@gmail.com	2000-11-15	9	7	9	9	7	8	9	7	promosso
+NULL	Erika	Giampaoli	F	erika.giampaoli@gmail.com	1998-07-05	6	3	4	3	5	7	3	7	non ammesso
+NULL	Giuseppina	Giannì	F	giuseppina.giannì@gmail.com	1998-07-23	6	9	7	9	10	10	8	6	promosso
+NULL	Davide	Giaretta	M	davide.giaretta@libero.it	1999-11-26	6	6	10	7	7	8	10	10	promosso
+NULL	Riccardo	Giordano	M	riccardo.giordano@virgilio.it	1999-12-23	9	7	9	7	10	9	7	9	promosso
+NULL	Leonardo	Giorlando	M	leonardo.giorlando@virgilio.it	1999-11-05	9	8	7	6	7	8	10	6	promosso
+NULL	Marco	Giovannini	M	marco.giovannini@gmail.com	1998-02-08	9	8	10	8	10	7	7	9	promosso
+NULL	Federico	Giubilo	M	federico.giubilo@gmail.com	1999-01-13	10	7	10	7	9	6	10	6	promosso
+NULL	Marta	Giuca	F	marta.giuca@libero.it	1998-06-11	7	9	6	10	6	10	8	8	promosso
+NULL	Alex	Giudici	M	alex.giudici@gmail.com	1999-08-05	8	8	9	7	9	10	6	6	promosso
+NULL	Fabio	Giuliani	M	fabio.giuliani@libero.it	2000-09-01	10	8	6	6	9	8	9	10	promosso
+NULL	Lorenc	Gjerkaj	M	lorenc.gjerkaj@libero.it	1999-05-10	4	8	8	6	7	9	9	5	promosso
+NULL	Stefano	Gobeo	M	stefano.gobeo@libero.it	2000-06-07	6	9	9	7	10	7	6	9	promosso
+NULL	Michele Fabio	Gorgoglione	M	michele fabio.gorgoglione@libero.it	2000-10-03	6	7	6	9	8	10	8	9	promosso
+NULL	Alfredo	Gorni	M	alfredo.gorni@libero.it	1998-05-19	3	7	7	7	4	4	5	5	non ammesso
+NULL	Angelo	Grasso	M	angelo.grasso@libero.it	2000-04-11	6	9	8	9	9	10	8	7	promosso
+NULL	Marco	Grattieri	M	marco.grattieri@gmail.com	2000-01-09	10	8	5	4	4	10	7	10	promosso
+NULL	Franco	Grazio	M	franco.grazio@libero.it	1998-12-18	3	9	6	7	9	4	9	8	promosso
+NULL	Stefano	Griggio	M	stefano.griggio@virgilio.it	2000-04-22	8	10	8	6	10	8	7	9	promosso
+NULL	Andrea	Grossi	M	andrea.grossi@virgilio.it	1999-07-21	8	10	10	9	8	8	7	6	promosso
+NULL	Fabrizio	Guarino	M	fabrizio.guarino@virgilio.it	1999-09-11	7	8	6	6	7	10	10	10	promosso
+NULL	Matteo	Guerra	M	matteo.guerra@gmail.com	1999-04-30	3	7	8	7	10	6	4	3	promosso
+NULL	Valerio	Guida	M	valerio.guida@libero.it	1998-07-11	9	9	9	9	10	7	6	7	promosso
+NULL	Alessandro	Iacono	M	alessandro.iacono@virgilio.it	2000-03-08	7	4	8	6	10	4	8	6	promosso
+NULL	Andrea	Iafisco	M	andrea.iafisco@gmail.com	1998-08-24	6	10	6	8	6	8	9	9	promosso
+NULL	Vincenzo	Ignaccolo	M	vincenzo.ignaccolo@gmail.com	1998-02-09	6	9	6	9	10	7	8	8	promosso
+NULL	Andrea	Isaia	M	andrea.isaia@libero.it	1999-12-02	9	6	4	5	4	8	7	9	promosso
+NULL	Carmine	Iuso	M	carmine.iuso@libero.it	1998-10-18	7	9	9	8	6	8	7	7	promosso
+NULL	Paride Fedele	Iuso	M	paride fedele.iuso@libero.it	1999-06-18	10	10	6	10	6	6	10	8	promosso
+NULL	Giuseppe	Iuso	M	giuseppe.iuso@virgilio.it	1998-05-13	8	10	8	6	3	5	6	8	promosso
+NULL	Fabio	Ladisa	M	fabio.ladisa@libero.it	1999-08-12	6	10	6	9	10	7	6	6	promosso
+NULL	Nicolay Bruno	Lancellotti	M	nicolay bruno.lancellotti@libero.it	1998-05-31	6	9	9	6	10	7	6	7	promosso
+NULL	Claudia	Lauretta	F	claudia.lauretta@libero.it	1999-10-11	10	8	7	10	7	7	9	6	promosso
+NULL	Marco	Lauro	M	marco.lauro@virgilio.it	2000-07-11	4	10	5	8	4	8	6	9	promosso
+NULL	Simone	Legnaro	M	simone.legnaro@virgilio.it	1998-01-09	5	3	3	7	3	6	4	5	non ammesso
+NULL	Emanuela	Lemma	F	emanuela.lemma@libero.it	2000-11-03	10	8	6	8	10	6	6	9	promosso
+NULL	Marco	Licandro	M	marco.licandro@virgilio.it	2000-07-24	4	4	3	7	5	7	4	3	non ammesso
+NULL	Valerio	Lofoco	M	valerio.lofoco@virgilio.it	1999-05-19	8	8	10	4	10	7	10	5	promosso
+NULL	Luca	Lorenzini	M	luca.lorenzini@virgilio.it	2000-07-23	6	7	7	9	10	6	8	10	promosso
+NULL	Mario	Luagetti	M	mario.luagetti@virgilio.it	1999-12-25	8	6	9	6	10	7	8	10	promosso
+NULL	Antonio	Maggiore	M	antonio.maggiore@gmail.com	1998-04-02	6	9	9	10	9	9	7	6	promosso
+NULL	Francesco	Maiorano	M	francesco.maiorano@virgilio.it	1999-11-01	6	6	6	10	6	8	10	9	promosso
+NULL	Andrea	Maletta	M	andrea.maletta@virgilio.it	1998-01-24	10	7	9	6	8	9	8	9	promosso
+NULL	Andrea	Manca	M	andrea.manca@virgilio.it	1999-01-16	8	10	7	7	8	7	9	7	promosso
+NULL	Edoardo	Manca	M	edoardo.manca@libero.it	1999-07-08	7	6	6	9	7	9	7	8	promosso
+NULL	Enzo	Manfellotti	M	enzo.manfellotti@gmail.com	1999-01-17	10	7	9	8	8	8	6	7	promosso
+NULL	Massimiliano	Manfredi	M	massimiliano.manfredi@virgilio.it	2000-03-25	8	9	7	8	9	3	7	8	promosso
+NULL	Francesca	Maniezzi	F	francesca.maniezzi@libero.it	1998-01-12	7	4	7	5	4	5	4	6	non ammesso
+NULL	Alfonso	Manzi	M	alfonso.manzi@gmail.com	1998-04-12	9	5	7	10	8	6	4	3	promosso
+NULL	Paolo	Marchetti	M	paolo.marchetti@virgilio.it	1999-09-26	6	8	6	9	9	7	3	3	promosso
+NULL	Fabio	Marchionne	M	fabio.marchionne@virgilio.it	2000-02-19	10	4	10	5	9	5	7	9	promosso
+NULL	Sergio	Margarit	M	sergio.margarit@libero.it	1999-11-01	3	8	10	3	7	3	8	6	promosso
+NULL	Iessir	Marzaq	M	iessir.marzaq@libero.it	1999-12-09	10	10	8	9	8	8	6	10	promosso
+NULL	Franco	Masella	M	franco.masella@virgilio.it	2000-03-06	6	7	10	7	7	7	9	7	promosso
+NULL	Davide	Mentasti	M	davide.mentasti@gmail.com	2000-07-30	8	10	9	9	8	7	7	10	promosso
+NULL	Stefano	Milano	M	stefano.milano@virgilio.it	1998-12-22	7	6	7	6	7	6	8	7	promosso
+NULL	Antonio	Minonne	M	antonio.minonne@libero.it	1998-06-19	6	7	10	10	9	5	6	4	promosso
+NULL	Luca	Mioli	M	luca.mioli@libero.it	1999-02-05	6	9	6	8	8	9	6	6	promosso
+NULL	Massimo	Misano	M	massimo.misano@gmail.com	1999-01-24	9	9	10	6	6	8	7	9	promosso
+NULL	Marco	Moggia	M	marco.moggia@libero.it	2000-11-23	7	8	6	9	7	10	9	6	promosso
+NULL	Luana	Molinari	F	luana.molinari@gmail.com	1999-05-12	8	7	7	9	10	8	7	7	promosso
+NULL	Giacomo	Molino	M	giacomo.molino@virgilio.it	1999-08-11	9	8	6	7	6	10	8	9	promosso
+NULL	Marco	Monticelli	M	marco.monticelli@virgilio.it	1999-12-16	8	9	9	7	9	10	6	8	promosso
+NULL	Claudio	Montonati	M	claudio.montonati@libero.it	1998-12-26	10	8	9	8	9	6	7	7	promosso
+NULL	Luigi	Morana	M	luigi.morana@virgilio.it	1999-11-25	8	7	10	10	8	9	9	10	promosso
+NULL	Fabio	Morelli	M	fabio.morelli@libero.it	1999-01-11	5	10	7	3	8	9	8	10	promosso
+NULL	Mirco	Morselli	M	mirco.morselli@virgilio.it	1999-05-12	8	8	9	6	7	9	7	8	promosso
+NULL	Daniele	Murgia	M	daniele.murgia@libero.it	1998-01-03	8	3	5	8	7	3	3	9	promosso
+NULL	Carmelo	Naccarato	M	carmelo.naccarato@libero.it	1998-12-28	8	9	10	10	9	10	10	8	promosso
+NULL	Sergio	Napoletano	M	sergio.napoletano@libero.it	1999-01-06	10	4	9	3	10	7	9	10	promosso
+NULL	Vincenzo	Nassisi	M	vincenzo.nassisi@virgilio.it	1999-02-01	6	7	8	7	8	6	7	9	promosso
+NULL	Stefano	Nicotra	M	stefano.nicotra@virgilio.it	2000-05-04	6	7	9	9	10	10	9	8	promosso
+NULL	Andrea	Orlando	M	andrea.orlando@gmail.com	1999-05-14	8	9	7	10	10	10	7	8	promosso
+NULL	Francesca	Orsini	F	francesca.orsini@gmail.com	1998-10-31	9	9	6	8	8	6	10	6	promosso
+NULL	Domenico	Pacifico	M	domenico.pacifico@virgilio.it	1998-09-28	5	3	7	4	9	10	8	10	promosso
+NULL	Devis	Paiardini	M	devis.paiardini@gmail.com	1998-03-08	4	7	5	5	3	7	7	3	non ammesso
+NULL	Orino	Pasquato	M	orino.pasquato@gmail.com	2000-03-09	9	7	7	9	6	9	6	10	promosso
+NULL	Davide	Patrizi	M	davide.patrizi@gmail.com	1998-08-08	3	9	7	4	6	8	10	3	promosso
+NULL	Alessandro	Pavan	M	alessandro.pavan@virgilio.it	2000-01-10	6	7	6	9	10	10	8	10	promosso
+NULL	Antonio Gabriele	Pedano	M	antonio gabriele.pedano@virgilio.it	1999-10-31	7	9	9	6	7	8	10	7	promosso
+NULL	Elisa	Perazzo	F	elisa.perazzo@libero.it	1999-03-31	7	4	3	7	4	3	5	7	non ammesso
+NULL	Stefano	Perino	M	stefano.perino@libero.it	1999-12-14	9	5	8	7	10	10	5	8	promosso
+NULL	Giovanni	Pesante	M	giovanni.pesante@virgilio.it	1999-12-17	9	9	3	5	10	6	10	6	promosso
+NULL	Marcello	Petrini	M	marcello.petrini@virgilio.it	1999-05-27	10	10	9	10	6	10	10	10	promosso
+NULL	Giovanni	Piacentini	M	giovanni.piacentini@gmail.com	2000-05-20	7	9	7	6	10	9	10	10	promosso
+NULL	Alberto	Pirola	M	alberto.pirola@virgilio.it	2000-12-27	9	7	7	8	5	6	5	8	promosso
+NULL	Marco Alessandro	Polacci	M	marco alessandro.polacci@virgilio.it	1998-09-22	6	10	9	8	9	10	6	9	promosso
+NULL	Lorenzo	Politano	M	lorenzo.politano@libero.it	1998-05-02	7	7	10	10	10	6	6	7	promosso
+NULL	Alessandra	Potente	F	alessandra.potente@virgilio.it	2000-08-20	10	8	9	6	10	10	8	10	promosso
+NULL	Francesca Romana	Prandi	F	francesca romana.prandi@gmail.com	1998-01-17	9	10	10	10	9	10	9	6	promosso
+NULL	Daniele	Pugliese	M	daniele.pugliese@virgilio.it	1998-12-25	7	4	9	7	6	5	5	8	promosso
+NULL	Chiara	Pula	F	chiara.pula@gmail.com	2000-09-25	10	9	10	8	7	10	9	9	promosso
+NULL	Stefano	Putino	M	stefano.putino@libero.it	1999-09-20	7	4	4	5	7	3	4	3	non ammesso
+NULL	Lorenzo	Radice	M	lorenzo.radice@libero.it	1999-03-16	3	9	10	9	8	7	3	7	promosso
+NULL	Dario	Ragno	M	dario.ragno@libero.it	1998-09-27	6	8	8	10	6	9	6	6	promosso
+NULL	Saverio	Randi	M	saverio.randi@gmail.com	1998-09-15	5	10	9	4	6	9	10	3	promosso
+NULL	Viola	Ravaldini	F	viola.ravaldini@libero.it	1999-09-30	6	8	10	6	10	9	10	7	promosso
+NULL	Marco	Redaelli	M	marco.redaelli@virgilio.it	1998-08-16	5	5	6	7	8	3	5	9	promosso
+NULL	Giacomo	Restuccia	M	giacomo.restuccia@gmail.com	1999-09-12	8	8	9	7	9	8	6	8	promosso
+NULL	Daniele	Riganelli	M	daniele.riganelli@virgilio.it	2000-11-08	7	10	8	6	9	10	10	7	promosso
+NULL	Silvia	Righetti	F	silvia.righetti@gmail.com	1998-10-03	7	6	3	4	7	3	3	8	promosso
+NULL	Dalila	Rispo	F	dalila.rispo@gmail.com	2000-10-20	5	7	4	7	4	5	3	5	non ammesso
+NULL	Angelo	Roccasalvo	M	angelo.roccasalvo@libero.it	1999-12-28	7	7	10	7	7	8	9	9	promosso
+NULL	Giuseppe	Romanelli	M	giuseppe.romanelli@gmail.com	1999-08-09	7	6	6	7	7	8	10	8	promosso
+NULL	Carmelo	Romeo	M	carmelo.romeo@libero.it	1998-05-08	6	6	10	10	8	8	8	7	promosso
+NULL	Francesco	Ronchi	M	francesco.ronchi@libero.it	1999-06-20	10	8	7	7	7	7	9	8	promosso
+NULL	Marco	Rossi	M	marco.rossi@gmail.com	1998-10-03	4	7	6	9	3	9	10	9	promosso
+NULL	Alessandro	Rossi	M	alessandro.rossi@virgilio.it	1998-07-17	7	7	3	4	7	4	3	5	non ammesso
+NULL	Daniele	Rubagotti	M	daniele.rubagotti@libero.it	1998-12-11	9	10	8	10	8	10	7	8	promosso
+NULL	Ermanno	Ruggeri	M	ermanno.ruggeri@libero.it	2000-08-27	10	9	7	6	9	7	9	7	promosso
+NULL	Stefania	Rullo	F	stefania.rullo@gmail.com	1998-06-02	8	8	7	10	10	6	10	10	promosso
+NULL	Simone	Russo	M	simone.russo@virgilio.it	1998-10-08	9	6	8	10	5	7	4	10	promosso
+NULL	Grazia	Ruta	F	grazia.ruta@libero.it	2000-11-27	9	3	7	10	5	9	10	3	promosso
+NULL	Rocco	Salatto	M	rocco.salatto@gmail.com	2000-11-16	6	9	7	8	5	5	5	3	promosso
+NULL	Puglisi	Salvatore	M	puglisi.salvatore@virgilio.it	2000-09-17	7	10	10	6	10	10	7	8	promosso
+NULL	Vittorio	Santoro	M	vittorio.santoro@gmail.com	2000-08-07	4	3	4	4	6	5	7	7	non ammesso
+NULL	Marco	Saporiti	M	marco.saporiti@libero.it	1999-09-05	6	9	6	8	8	6	6	7	promosso
+NULL	Alessandro	Sarno	M	alessandro.sarno@gmail.com	1998-05-12	10	9	5	4	8	8	9	7	promosso
+NULL	Elisa	Scavino	F	elisa.scavino@virgilio.it	2000-12-31	9	8	9	6	9	10	6	10	promosso
+NULL	Antonio	Schiavone	M	antonio.schiavone@gmail.com	1999-06-09	10	8	10	10	8	6	9	7	promosso
+NULL	Marco	Scianti	M	marco.scianti@libero.it	2000-09-02	8	8	8	9	7	6	10	6	promosso
+NULL	Fabrizio	Sementilli	M	fabrizio.sementilli@libero.it	1999-07-26	6	6	4	10	8	8	5	3	promosso
+NULL	Stefano	Serra	M	stefano.serra@libero.it	1998-04-02	10	9	7	6	7	9	9	9	promosso
+NULL	Alberto	Sica	M	alberto.sica@virgilio.it	2000-09-04	10	7	6	5	9	10	3	3	promosso
+NULL	Francecsco	Signorello	M	francecsco.signorello@virgilio.it	1999-09-16	6	7	9	8	9	6	10	7	promosso
+NULL	Sandro	Silvestri	M	sandro.silvestri@gmail.com	1999-06-07	9	6	6	6	6	9	6	8	promosso
+NULL	Alessandro	Simeone	M	alessandro.simeone@libero.it	2000-02-14	6	4	7	9	7	3	8	10	promosso
+NULL	Rachele	Sipione	M	rachele.sipione@virgilio.it	1998-10-01	9	8	9	10	6	10	7	7	promosso
+NULL	Andrea	Sorgini	M	andrea.sorgini@gmail.com	1999-10-26	8	6	6	8	9	8	6	10	promosso
+NULL	Luca	Staropoli	M	luca.staropoli@libero.it	1999-06-11	6	8	10	10	9	9	10	10	promosso
+NULL	Luca	Stefani	M	luca.stefani@virgilio.it	1999-03-14	9	6	6	9	6	10	7	9	promosso
+NULL	Matteo	Steiner	M	matteo.steiner@virgilio.it	1999-11-05	3	9	5	8	6	6	6	10	promosso
+NULL	Marco	Tagliapietra	M	marco.tagliapietra@gmail.com	2000-12-25	8	7	10	9	10	9	10	7	promosso
+NULL	Michele	Tamisari	M	michele.tamisari@libero.it	1998-03-25	6	7	6	6	10	8	6	6	promosso
+NULL	Pasquale	Tandoi	M	pasquale.tandoi@libero.it	1998-01-08	6	7	7	8	9	7	9	9	promosso
+NULL	Angelo	Tardanico	M	angelo.tardanico@gmail.com	2000-10-25	7	7	10	10	9	10	9	10	promosso
+NULL	Valentina	Taurisano	F	valentina.taurisano@virgilio.it	1998-03-02	6	3	7	7	7	3	8	3	promosso
+NULL	Michele Domenico	Timpanaro	M	michele domenico.timpanaro@libero.it	1998-10-23	9	8	7	10	10	8	6	9	promosso
+NULL	Alessandro	Tintori	M	alessandro.tintori@gmail.com	1999-10-08	6	9	6	6	7	9	7	8	promosso
+NULL	Diamond	Togni	M	diamond.togni@gmail.com	1998-06-17	8	9	4	6	8	8	4	10	promosso
+NULL	Matteo	Tomasoni	M	matteo.tomasoni@libero.it	2000-06-16	8	5	7	4	9	5	9	3	promosso
+NULL	Luca	Tomassini	M	luca.tomassini@libero.it	2000-09-18	3	6	3	10	4	4	7	7	promosso
+NULL	Marco	Tombari	M	marco.tombari@gmail.com	1999-02-09	4	6	3	7	5	5	5	6	non ammesso
+NULL	Damiano	Torrini	M	damiano.torrini@virgilio.it	1999-08-12	9	10	9	10	8	8	7	6	promosso
+NULL	Federico	Toson Marin	M	federico.toson marin@virgilio.it	2000-11-01	7	10	6	8	10	8	6	6	promosso
+NULL	Alessadro	Toson Marin	M	alessadro.toson marin@gmail.com	1999-07-19	4	9	8	5	6	6	9	8	promosso
+NULL	Francesca	Tramuto	F	francesca.tramuto@libero.it	2000-05-12	10	8	9	10	6	10	8	7	promosso
+NULL	Luca	Trevisan	M	luca.trevisan@gmail.com	1998-08-10	3	5	4	7	4	7	7	5	non ammesso
+NULL	Lorenzo	Trifino	M	lorenzo.trifino@virgilio.it	1998-11-06	6	10	7	7	8	7	6	9	promosso
+NULL	Antonio	Tuberosa	M	antonio.tuberosa@libero.it	2000-11-09	9	3	8	8	5	7	7	7	promosso
+NULL	Riccardo	Turra	M	riccardo.turra@libero.it	2000-02-04	10	6	8	8	5	6	3	9	promosso
+NULL	Alessio	Usai	M	alessio.usai@gmail.com	1999-05-27	8	6	5	8	7	8	5	7	promosso
+NULL	Isabella	Valentini	F	isabella.valentini@gmail.com	2000-07-17	10	9	9	10	8	5	6	6	promosso
+NULL	Gianluca	Valentini	M	gianluca.valentini@libero.it	2000-11-14	10	9	7	8	10	9	8	8	promosso
+NULL	Ivano	Vangone	M	ivano.vangone@virgilio.it	2000-09-13	4	9	6	3	9	7	8	9	promosso
+NULL	Elia	Venier	M	elia.venier@virgilio.it	1998-11-13	9	8	8	10	10	10	8	8	promosso
+NULL	Andrea	Ventrici	M	andrea.ventrici@libero.it	2000-04-24	9	7	8	6	7	10	6	6	promosso
+NULL	Alessia	Veronese	F	alessia.veronese@gmail.com	1999-03-23	7	8	6	7	8	7	10	8	promosso
+NULL	Mattia	Vitali	M	mattia.vitali@libero.it	1999-02-08	8	10	7	4	3	9	6	8	promosso
+NULL	Giorgio	Vitelli	M	giorgio.vitelli@virgilio.it	2000-01-28	5	7	4	5	8	9	3	6	promosso
+NULL	Luca	Vitolo	M	luca.vitolo@libero.it	2000-09-27	7	7	6	7	6	6	7	9	promosso
+NULL	Alessandra	Vodola	F	alessandra.vodola@libero.it	2000-03-30	10	8	6	10	6	8	10	7	promosso
+NULL	Paolo	Zagarese	M	paolo.zagarese@libero.it	1999-09-26	9	6	9	10	7	8	9	6	promosso
+NULL	Tommy	Zambon	M	tommy.zambon@gmail.com	1999-01-14	7	10	6	5	4	6	8	3	promosso
+NULL	Viviana	Zanazzo	F	viviana.zanazzo@gmail.com	2000-12-14	8	7	9	10	7	10	8	6	promosso
+NULL	Paolo	Zanesco	M	paolo.zanesco@gmail.com	1998-08-10	6	9	10	9	10	8	7	8	promosso
+NULL	Francesco	Zanin	M	francesco.zanin@virgilio.it	2000-08-29	3	8	3	3	10	3	9	9	promosso
+NULL	Giuseppe	Zocco	M	giuseppe.zocco@gmail.com	2000-05-07	9	9	6	10	6	8	7	9	promosso
+NULL	Renato	Zonta	M	renato.zonta@libero.it	2000-08-16	7	6	9	4	10	8	5	9	promosso
+NULL	Pierpaolo	Zorzato	M	pierpaolo.zorzato@libero.it	1998-05-20	8	7	10	6	7	7	7	6	promosso
+NULL	Pierpaolo	Zorzato	M	pierpaolo.zorzato@gmail.com	1999-06-05	10	7	7	9	7	8	9	9	promosso
