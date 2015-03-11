@@ -16,5 +16,5 @@
 
 #cd /var/www ; sudo ln -s /home/pi/leonardo/Lezioni_5_6_7/html
 cd
-sudo sed -i 's/display_errors = Off/display_errors = On/' /etc/php.ini
+sudo sed -i 's/display_errors = Off/display_errors = On/' /etc/php5/apache2/php.ini
 sudo service apache2 restart
