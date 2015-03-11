@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "installo gedit"
 #sudo apt-get install gedit -y
 #sudo apt-get install apache2 -y
 #sudo apt-get install php5 -y
