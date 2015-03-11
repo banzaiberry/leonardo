@@ -1,4 +1,8 @@
 #!/bin/bash
+#curl https://raw.githubusercontent.com/banzaiberry/leonardo/master/doAll.sh | sh
+#curl http://goo.gl/4IhyLv | sh
+
+
 #sudo apt-get install gedit -y
 #sudo apt-get install apache2 -y
 #sudo apt-get install php5 -y
