@@ -13,5 +13,5 @@ cd
 #mysql -u root -pleonardo -e "GRANT ALL PRIVILEGES ON leonardo.* TO 'leonardo'@'localhost' IDENTIFIED BY 'leonardo' WITH GRANT OPTION;FLUSH PRIVILEGES ;";
 #mysql -uleonardo -pleonardo leonardo < /home/pi/leonardo/Lezioni_1_2_3_4/sql/TabellaStudenti.sql
 
-cd /var/www ; sudo ln -s /home/pi/leonardo/Lezioni_5_6_7/html
+#cd /var/www ; sudo ln -s /home/pi/leonardo/Lezioni_5_6_7/html
 cd
